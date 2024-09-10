@@ -1,4 +1,4 @@
-# Inclusivity-Diversity-Dashboard
+# Inclusivity-&-Diversity-Dashboard
 ### Project Overview
 This project focuses on creating an Inclusivity and Diversity Dashboard using Power BI to analyze and track key performance indicators (KPIs) related to gender balance and diversity within a telecom organization. The dashboard is designed to help HR teams monitor progress and identify challenges in achieving gender diversity, particularly at the executive level.
 
